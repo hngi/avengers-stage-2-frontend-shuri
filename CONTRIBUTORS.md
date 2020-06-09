@@ -1,6 +1,9 @@
 # Contributors
--  [@elcozy](https://github.com/elcozy)
 
--  [@ifatoki](https://github.com/ifatoki)
+- [@elcozy](https://github.com/elcozy)
 
--  [@akinsikuoluwafemi](https://github.com/akinsikuoluwafemi)
+- [@ifatoki](https://github.com/ifatoki)
+
+- [@akinsikuoluwafemi](https://github.com/akinsikuoluwafemi)
+
+- [@Bytes](https://github.com/annonBytes)
