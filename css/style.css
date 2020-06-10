@@ -1,72 +1,81 @@
-body {
-	font-family: Poppins;
-	color: #d9b77b;
+.text--brown{
+    color: #DAB77C!important;
 }
 
-#header {
-	color: #6d5c3e;
-	height: 3em;
-}
-#header ul li a {
-	display: block;
-	text-decoration: none;
-	color: #d9b77b;
-}
-#header ul a:hover {
-	color: black;
-}
-#header ul {
-	list-style: none;
-	padding: 0;
-	margin: 0 auto;
-	position: absolute;
-	top: 1%;
-	right: 3%;
-	margin-bottom: 10px;
-}
-#header ul li {
-	font-weight: normal;
-	float: left;
-	margin: 10px;
-	padding: 5px;
-}
-div#home_image {
-	position: relative;
-	object-fit: contain;
-	margin: 0;
-	padding: 0;
-	padding-bottom: 5px;
-	border-bottom: 2px solid #d9b77b;
-
-}
-img.home {
-	height: 500px;
-	width: 100%;
-
-}
-p.statement {
-	text-align: center;
-	color: #d9b77b;
-	padding: 8px;
-	margin: 13px;
-}
-#container {
-	background-color: white;
-	border: 5px solid white;
-	border-radius: 20px;
-	padding: 1px;
-	width: 45%;
-	position: absolute;
-	top: 57%;
-	left: 26%;
-
-}
-div#pitch {
-	border: 2px solid #d9b77b;
-	border-radius: 8px;
-	margin: 2px;
-}
-div#text {
-	margin-top: 45px;
+.text--dark {
+    color: #6D5C3E!important;
 }
 
+.text-white {
+    color: whitesmoke!important;
+}
+
+.bg-background {
+    background-image: url('/images/39e15700512e0e52c61b7738b77c2247.jpg')!important;
+    height: 100vh;
+    background-image: #777;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.ab {
+    position: relative;
+
+}
+
+
+
+.container-box{
+    width: 700px;
+    height: 384px;
+    background: #fff;
+    border-radius: 20px;
+    z-index: 5;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(0%, -60%)
+
+
+}
+
+.inner-container {
+    border-radius: 20px;
+    width: 660px;
+    height: 450px;
+    border: 2px solid #D9B77A;
+    margin: auto;
+    margin-top: 1rem;
+
+}
+
+.inner-container-text {
+    font-size: 3rem;
+    padding: 4rem;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+    color: #D9B77A!important;
+
+
+    
+}
+
+.inner-container-logo-container {
+    text-align: center;
+}
+
+.sect {
+    letter-spacing: 2px;
+    /* background-color: #6D5C3E; */
+    margin-top: 19rem;
+    padding: 3rem;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    text-align: center;
+
+}
