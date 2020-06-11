@@ -374,4 +374,27 @@
     }
   }
   
+@media screen and (max-width: 380px) {
+    .overlay-content h3 {
+        line-height: 30px;
+        letter-spacing: 0.2em;
+      }     
+}
+
+
+.nav-link{
+    font-weight: 700 !important;
+    color: #D9b77b !important;
+    letter-spacing: 2px !important;
+}
+
+.nav-link a{
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+
+li a:hover{
+    color: #6D5C3E !important;
+    letter-spacing: 3px !important;
+}
   
